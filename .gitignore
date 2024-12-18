@@ -1,8 +1,5 @@
 # Ignorer les fichiers de configuration sensibles
 .env
-# Ignorer les fichiers de cache Python
-__pycache__/
-*.pyc
-# Ignorer les fichiers spécifiques aux environnements locaux
-.vscode/
+
+
 
