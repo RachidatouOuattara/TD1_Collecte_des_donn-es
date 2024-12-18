@@ -1,4 +1,5 @@
 Objectifs du TD
+
 — Comprendre les méthodes de collecte de données pour le NLP.
 
 — Manipuler des outils pour extraire des textes à partir de sources variées.
