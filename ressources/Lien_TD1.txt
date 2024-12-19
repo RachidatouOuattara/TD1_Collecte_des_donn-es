@@ -1,8 +1,0 @@
-Ressources complémentaires
-
-— Documentation Requests: 
-https://requests.readthedocs.io/en/latest/ 
-— Documentation BeautifulSoup 
-https://www.crummy.com/software/BeautifulSoup/ 
-— API NewsAPI 
-https://newsapi.org 
